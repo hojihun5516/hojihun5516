@@ -21,7 +21,7 @@ const jihoon = {
     mlOps: ['Airflow'],
     recommendationAlgorithm: ['Collaborating Filtering', 'Content-based Filtering'],
     databases: ['Mongo', 'MySql', 'Redis', 'SQLite'],
-    misc: ['Wordpress'],
+    misc: ['ELK_Stack', 'Wordpress'],
   },
   currentFocus: ['TDD', 'Kubernetes'],
 };
