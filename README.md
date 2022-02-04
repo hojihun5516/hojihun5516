@@ -1,16 +1,40 @@
-### Hi there 👋
+## 👋 Hi I am jihoon
 
-<!--
-**hojihun5516/hojihun5516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-Here are some ideas to get you started:
+```javascript
+const jihoon = {
+  nickname: 'modernflow' | 'moflow',
+  code: ['Javascript', 'Typescript', 'Python'],
+  askMeAbout: ['football', 'travel', 'running'],
+  technologies: {
+    backEnd: {
+      ts: ['Node', 'Express', 'Nestjs'],
+      python: ['FastAPI', 'Django'],
+    },
+    frontEnd: {
+      ts: ['Reactjs', 'redux'],
+    },
+    devOps: ['AWS', 'Docker', 'Nginx'],
+    ml: ['Scikit-learn', 'NLTK'],
+    dl: [
+      'Pytorch',
+      'Tensorflow',
+      'Keras',
+      'GAN',
+      'CV-detection',
+      'CV-segmentation',
+    ],
+    mlOps: ['Airflow'],
+    recommendationAlgorithm: [
+      'Collaborating Filtering',
+      'Content-based Filtering',
+    ],
+    databases: ['Mongo', 'MySql', 'Redis', 'SQLite'],
+    misc: ['Wordpress'],
+  },
+  currentFocus: ['TDD', 'Kubernetes'],
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :green_book: [Moflow Blog](https://modernflow.tistory.com/)
