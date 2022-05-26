@@ -18,7 +18,7 @@ const jihoon = {
     devOps: ['AWS', 'Docker', 'Nginx'],
     ml: ['Scikit-learn', 'NLTK'],
     dl: ['Pytorch', 'Tensorflow', 'Keras', 'GAN', 'CV-detection', 'CV-segmentation'],
-    mlOps: ['Airflow'],
+    ETL: ['Airflow'],
     recommendationAlgorithm: ['Collaborating Filtering', 'Content-based Filtering'],
     databases: ['Mongo', 'MySql', 'Redis', 'SQLite'],
     misc: ['ELK_Stack', 'Wordpress'],
